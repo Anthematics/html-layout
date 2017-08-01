@@ -5,6 +5,31 @@ background-color: #fff;
 text-align: center;
 }
 
-body{font-size: 18px;
-  line-height: 26px
+body{
+  font-size: 18px;
+  line-height: 26px;
+}
+
+
+.author {
+  font-size: 12px;
+  color:blue;
+  weight:300;
+  text-align: center;
+}
+
+.comment{
+
+}
+
+.categorydate{
+  font-size: 8;
+  opacity: 5;
+
+}
+
+.tabletitle{
+  font-size: 18px;
+  color: black;
+
 }
